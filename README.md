@@ -28,8 +28,8 @@
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=ANavas07&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="ANavas07's GitHub Stats" />
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m1hawk77&show_icons=true&locale=en" alt="m1hawk77" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=m1hawk77&show_icons=true&locale=en&layout=compact" alt="m1hawk77" /></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANavas07&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="ANavas07's GitHub Stats" />
+<img src="https://streak-stats.demolab.com?user=ANavas07&theme=dark&hide_border=true" alt="ANavas07's GitHub Stats" />
 
 
 
