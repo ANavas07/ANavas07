@@ -52,9 +52,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ANavas07&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="ANavas07's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANavas07&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="ANavas07's GitHub Stats" />
-<img src="https://streak-stats.demolab.com?user=ANavas07&theme=dark&hide_border=true" alt="ANavas07's GitHub Stats" />
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ANavas07&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANavas07&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Top Langs" />
+  <img src="https://streak-stats.demolab.com?user=ANavas07&theme=dark&hide_border=true" alt="GitHub Streak" />
+</div>
 
 ###
 
