@@ -9,12 +9,6 @@
   <img src="https://komarev.com/ghpvc/?username=m1hawk77&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
 </p>
 
-<p align="left">
-  <a href="https://twitter.com/" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Twitter Follow">
-  </a>
-</p>
-
 ---
 
 ### 💻 About Me
@@ -26,10 +20,17 @@
 ---
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
- <a href="https://twitter.com/ariel_n7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ariel_n7" height="30" width="40" /></a>
-<a href="https://instagram.com/alejandro.n7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alejandro.n7" height="30" width="40" /></a>
-</p>
+<div align="left">
+  <a href="https://www.linkedin.com/in/navasariel/?originalSubdomain=ec" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="27" alt="LinkedIn logo"/>
+  </a>
+  <a href="https://www.facebook.com/arielalejo.navas/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="42" height="27" alt="Facebook logo"/>
+  </a>
+  <a href="https://www.instagram.com/alejandro.n7?igsh=MTJmM250a2Q0cXh3ZA==" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="27" alt="Instagram logo"/>
+  </a>
+</div>
 
 
 <h3 align="left">Languages and Tools:</h3>
