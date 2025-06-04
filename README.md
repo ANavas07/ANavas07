@@ -52,6 +52,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
 </div>
 
+### 📈 Contribuciones
+
+<a href="https://github.com/Dionisio202">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dionisio202&theme=react-dark&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FF6B6B&area=true&hide_border=true&radius=10" alt="Contribution Graph"/>
+</a>
+
+### 🏆 Logros GitHub
+
+<a href="https://github.com/Dionisio202">
+  <img src="https://github-profile-trophy.vercel.app/?username=Dionisio202&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
+</a>
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ANavas07&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
