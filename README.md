@@ -60,15 +60,16 @@
 
 ### 🏆 Logros GitHub
 
-<a href="https://github.com/ANavas07">
+<a align="center" href="https://github.com/ANavas07">
  <img src="https://github-profile-trophy.vercel.app/?username=ANavas07&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&row=2&column=4" alt="GitHub Trophies"/>
 </a>
 
+### 📊 GitHub Insights
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ANavas07&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANavas07&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Top Langs" />
-  <img src="https://streak-stats.demolab.com?user=ANavas07&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ANavas07&theme=github_dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANavas07&theme=github_dark&show_icons=true&hide_border=true&layout=compact" alt="Top Langs" />
+  <img src="https://streak-stats.demolab.com?user=ANavas07&theme=github-dark&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ###
