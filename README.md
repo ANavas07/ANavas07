@@ -1,16 +1,12 @@
 [![MasterHead](https://miro.medium.com/max/720/0*de0IdiUSoJTwgsys.gif)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Ariel</h1>
-<h3 align="center">A Passionate Software Developer</h3>
+<h3 align="center">A Passionate Software Developer from Ecuador</h3>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding">
-</div>
-
----
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=m1hawk77&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"> 
+  <img src="https://komarev.com/ghpvc/?username=m1hawk77&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
 </p>
 
 <p align="left">
@@ -22,8 +18,8 @@
 ---
 
 ### 💻 About Me
-- 🔭 Currently studying **Software Development at Universidad**  
-- 🌱 Expanding my knowledge in **JavaScript & Web Development**  
+- 🔭 Currently **studying Software Development at Universidad**  
+- 🌱 Focused on learning **JavaScript & modern web technologies**  
 - 📫 Reach me at **arielnavas05@gmail.com**  
 - ⚡ Fun fact: **I enjoy problem-solving & continuous learning**  
 
