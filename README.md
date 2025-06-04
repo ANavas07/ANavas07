@@ -56,6 +56,12 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANavas07&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="ANavas07's GitHub Stats" />
 <img src="https://streak-stats.demolab.com?user=ANavas07&theme=dark&hide_border=true" alt="ANavas07's GitHub Stats" />
 
+###
+
+<img src="https://raw.githubusercontent.com/ANavas07/ANavas07/output/snake.svg" alt="Snake animation" />
+
+###
+
 
 
 
