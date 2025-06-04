@@ -1,20 +1,33 @@
 [![MasterHead](https://miro.medium.com/max/720/0*de0IdiUSoJTwgsys.gif)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Ariel</h1>
-<h3 align="center">A passionate developer from Ecuador</h3>
-<img align="right" alt="Coding" widht="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<h3 align="center">A Passionate Software Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=m1hawk77&label=Profile%20views&color=0e75b6&style=flat" alt="m1hawk77" /> </p>
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding">
+</div>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+---
 
-- 🔭 I am currently studying at **Universidad Técnica De Ambato**
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=m1hawk77&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"> 
+</p>
 
-- 🌱 I’m currently learning **Js**
+<p align="left">
+  <a href="https://twitter.com/" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Twitter Follow">
+  </a>
+</p>
 
-- 📫 How to reach me **arielnavas05@gmail.com**
+---
 
-- ⚡ Fun fact **I am Funny**
+### 💻 About Me
+- 🔭 Currently studying **Software Development at Universidad**  
+- 🌱 Expanding my knowledge in **JavaScript & Web Development**  
+- 📫 Reach me at **arielnavas05@gmail.com**  
+- ⚡ Fun fact: **I enjoy problem-solving & continuous learning**  
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
