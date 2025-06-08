@@ -1,93 +1,89 @@
-[![MasterHead](https://miro.medium.com/max/720/0*de0IdiUSoJTwgsys.gif)](https://rishavchanda.io)
+[![Header Animation](https://miro.medium.com/max/720/0*de0IdiUSoJTwgsys.gif)](https://github.com/ANavas07)
 
-<h1 align="center">Hi 👋, I'm Ariel</h1>
-<h3 align="center">A Passionate Software Developer from Ecuador</h3>
+<h1 align="center">Hi there! 👋 I'm Ariel Navas</h1>
+<h3 align="center">Software Developer focused on innovation and continuous learning — from Ecuador 🇪🇨</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=m1hawk77&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ANavas07&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
-### 💻 About Me
-- 🔭 Currently **studying Software Development at Universidad**  
-- 🌱 Focused on learning **JavaScript & modern web technologies**  
-- 📫 Reach me at **arielnavas05@gmail.com**  
-- ⚡ Fun fact: **I enjoy problem-solving & continuous learning**  
+### 💡 About Me
+
+I'm a software developer in training, passionate about solving problems and building meaningful tech. I'm currently studying Software Development and diving deeper into modern full-stack technologies.
+
+- 🎓 **Education:** Software Development student  
+- 💻 **Current Stack:** JavaScript, React, Node.js, Next.js  
+- 🚀 **Interests:** Web development, computer vision, gamification, DevOps  
+- 📬 **Contact:** [arielnavas05@gmail.com](mailto:arielnavas05@gmail.com)  
+- ⚙️ **Mindset:** Always learning, always building  
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<div align="left">
-  <a href="https://www.linkedin.com/in/navasariel/?originalSubdomain=ec" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="27" alt="LinkedIn logo"/>
+### 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/navasariel/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="27" alt="LinkedIn"/>
   </a>
   <a href="https://www.facebook.com/arielalejo.navas/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="42" height="27" alt="Facebook logo"/>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="42" height="27" alt="Facebook"/>
   </a>
-  <a href="https://www.instagram.com/alejandro.n7?igsh=MTJmM250a2Q0cXh3ZA==" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="27" alt="Instagram logo"/>
+  <a href="https://www.instagram.com/alejandro.n7" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="27" alt="Instagram"/>
   </a>
-</div>
+</p>
 
+---
 
-<h3 align="left">Languages and Tools:</h3>
+### 🛠️ Technologies & Tools
+
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="WordPress"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="OpenCV"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="Jira"/>
 </div>
 
-### 📈 Contribuciones
+---
+
+### 📈 GitHub Activity
 
 <a href="https://github.com/ANavas07">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=ANavas07&theme=react-dark&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=F78166&area=true&hide_border=true&radius=10" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ANavas07&theme=react-dark&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=F78166&area=true&hide_border=true&radius=10" alt="Contribution Graph"/>
 </a>
 
-### 🏆 Logros GitHub
+---
 
-<a align="center" href="https://github.com/ANavas07">
- <img src="https://github-profile-trophy.vercel.app/?username=ANavas07&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&row=2&column=4" alt="GitHub Trophies"/>
+### 🏆 GitHub Achievements
+
+<a href="https://github.com/ANavas07">
+  <img src="https://github-profile-trophy.vercel.app/?username=ANavas07&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&row=2&column=4" alt="GitHub Trophies"/>
 </a>
 
-### 📊 GitHub Insights
+---
+
+### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ANavas07&theme=github_dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANavas07&theme=github_dark&show_icons=true&hide_border=true&layout=compact" alt="Top Langs" />
-  <img src="https://streak-stats.demolab.com?user=ANavas07&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ANavas07&theme=github_dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANavas07&theme=github_dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages"/>
+  <img src="https://streak-stats.demolab.com?user=ANavas07&theme=github-dark&hide_border=true" alt="GitHub Streak"/>
 </div>
 
-###
+---
+
+### 🐍 Contribution Snake Animation
 
 <img src="https://raw.githubusercontent.com/ANavas07/ANavas07/output/snake.svg" alt="Snake animation" />
-
-###
-
-
-
 
