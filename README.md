@@ -1,7 +1,7 @@
 [![Header Animation](https://miro.medium.com/max/720/0*de0IdiUSoJTwgsys.gif)](https://github.com/ANavas07)
 
 <h1 align="center">Hi there! 👋 I'm Ariel Navas</h1>
-<h3 align="center">Software Developer focused on innovation and continuous learning — from Ecuador 🇪🇨</h3>
+<h3 align="center">Software Engineer focused on innovation and continuous learning — from Ecuador 🇪🇨</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ANavas07&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -11,11 +11,10 @@
 
 ### 💡 About Me
 
-I'm a software developer in training, passionate about solving problems and building meaningful tech. I'm currently studying Software Development and diving deeper into modern full-stack technologies.
+I'm a passionate software engineer who enjoys turning ideas into real, useful applications. I love building things that not only work well but feel great to use. I'm especially into full-stack development and always exploring new technologies that help create better, smarter digital experiences.
 
-- 🎓 **Education:** Software Development student  
 - 💻 **Current Stack:** JavaScript, React, Node.js, Next.js  
-- 🚀 **Interests:** Web development, computer vision, gamification, DevOps  
+- 🚀 **Interests:** Web development, IA, gamification, DevOps  
 - 📬 **Contact:** [arielnavas05@gmail.com](mailto:arielnavas05@gmail.com)  
 - ⚙️ **Mindset:** Always learning, always building  
 
