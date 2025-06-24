@@ -81,6 +81,12 @@ I'm a passionate software engineer who enjoys turning ideas into real, useful ap
 
 ---
 
+## 🎼 Some vibes
+<div align="center">
+  ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16)
+</div>
+
+
 ### 🐍 Contribution Snake Animation
 
 <img src="https://raw.githubusercontent.com/ANavas07/ANavas07/output/snake.svg" alt="Snake animation" />
