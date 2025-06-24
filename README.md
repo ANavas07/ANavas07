@@ -81,11 +81,7 @@ I'm a passionate software engineer who enjoys turning ideas into real, useful ap
 
 ---
 
-<div align="center">
-  <a href="https://open.spotify.com/user/31fyyvwzoxxeka62rgkhejznndvi">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=ariel_navas&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
+![Spotify](https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)
 
 
 ### 🐍 Contribution Snake Animation
