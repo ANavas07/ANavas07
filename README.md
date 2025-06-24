@@ -81,7 +81,7 @@ I'm a passionate software engineer who enjoys turning ideas into real, useful ap
 
 ---
 
-![Spotify](https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ariel_navas&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 
 ### 🐍 Contribution Snake Animation
