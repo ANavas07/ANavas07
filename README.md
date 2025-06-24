@@ -81,9 +81,10 @@ I'm a passionate software engineer who enjoys turning ideas into real, useful ap
 
 ---
 
-## 🎼 Some vibes
 <div align="center">
-  ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16)
+  <a href="https://open.spotify.com/user/31fyyvwzoxxeka62rgkhejznndvi">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=ariel_navas&count=5" alt="Spotify recently played"  />
+  </a>
 </div>
 
 
