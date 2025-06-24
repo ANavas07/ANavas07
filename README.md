@@ -80,17 +80,6 @@ I'm a passionate software engineer who enjoys turning ideas into real, useful ap
 </div>
 
 ---
-###🎸 Vibes
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ariel_navas&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=ariel_navas&redirect=true)
-
-<a href="https://{ariel_navas}.pythonanywhere.com/link">
-  <img
-    src="https://{ariel_navas}.pythonanywhere.com"
-    alt="Current Spotify Song"
-  />
-</a>
-
 ### 🐍 Contribution Snake Animation
 
 <img src="https://raw.githubusercontent.com/ANavas07/ANavas07/output/snake.svg" alt="Snake animation" />
