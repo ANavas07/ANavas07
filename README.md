@@ -66,17 +66,12 @@ I'm a passionate software engineer who enjoys turning ideas into real, useful ap
 
 ### 🏆 GitHub Achievements
 
-<a href="https://github.com/ANavas07">
-  <img src="https://github-profile-trophy.vercel.app/?username=ANavas07&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&row=2&column=4" alt="GitHub Trophies"/>
-</a>
-
----
-
-### 📊 GitHub Stats
-
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=ANavas07&theme=radical&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true" height="150" alt="trophy graph"  />
 </div>
+---
+
+### 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ANavas07&theme=github_dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats"/>
