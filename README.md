@@ -75,6 +75,10 @@ I'm a passionate software engineer who enjoys turning ideas into real, useful ap
 ### 📊 GitHub Stats
 
 <div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=ANavas07&theme=radical&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true" height="150" alt="trophy graph"  />
+</div>
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ANavas07&theme=github_dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANavas07&theme=github_dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages"/>
 </div>
